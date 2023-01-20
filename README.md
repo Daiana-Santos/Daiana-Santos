@@ -18,6 +18,6 @@
 
 <div>
 <a href="https://github.com/Daiana-Santos">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Daiana-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiana-Santos&layout=compact&langs_count=7&theme=dracula" height="120"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Daiana-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiana-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
